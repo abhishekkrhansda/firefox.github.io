@@ -1,0 +1,213 @@
+header {
+    display: flex;
+    justify-content: end;
+}
+
+header li a img {
+    height: 50px;
+    width: 30px;
+}
+
+li {
+    text-decoration: none;
+}
+
+.container {
+    height: 156px;
+
+
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main img {
+    height: 90px;
+    width: 90px;
+}
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-size: 48px;
+}
+
+h1:hover {
+    cursor: none;
+}
+
+.container main img {}
+
+#search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    border: 2px white;
+    border-radius: inherit;
+}
+
+#search input {
+    height: 50px;
+    width: 800px;
+    border: 2px white;
+    border-radius: inherit;
+    font-size: 15px;
+
+
+
+
+}
+
+
+.btn {
+    display: flex;
+    align-items: center;
+    height: 55px;
+    background-color: white;
+    border: 1px white;
+    border-radius: 20px;
+}
+
+
+.btn img {
+
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    border: 1px white solid transparent;
+    padding-top: 5px;
+
+
+
+
+
+
+
+
+
+}
+
+.searchbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+
+
+.web {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px 100px;
+    padding-top: 40px;
+
+
+
+
+}
+
+.box {
+    display: flex;
+    justify-content: space-between;
+    border: 3px;
+    margin: 3px;
+    padding: 15px 15px;
+    border-radius: 4px;
+    background-color: rgb(239, 232, 236);
+
+
+
+}
+
+.box:hover {
+    background-color: white;
+    cursor: pointer;
+}
+
+.box a img {
+    height: 50px;
+    width: 50px;
+}
+
+.content {
+
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 8px 100px;
+
+
+}
+
+.box1:hover {
+    background-color: antiquewhite;
+    cursor: pointer;
+}
+
+.box2:hover {
+    background-color: antiquewhite;
+    cursor: pointer;
+}
+
+.box1 {
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    border: 3px;
+    margin: 3px;
+    padding: 10px 50px;
+    padding-bottom: 200px;
+    border-radius: 4px;
+    background-color: rgb(253, 246, 251);
+}
+
+.box1 img {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 180px;
+}
+
+.box2 {
+    display: flex;
+    justify-content: space-between;
+    border: 3px;
+    margin: 3px;
+    padding: 10px 50px;
+    padding-bottom: 200px;
+    border-radius: 4px;
+    background-color: rgb(253, 246, 251);
+    height: 200px;
+}
+
+.box2 img {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 180px;
+}
+
+
+
+
+body {
+    background-color: rgba(231, 152, 158, 0.30000001192092896);
+}
+
+h3 {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+/*RESPONSIVE NESS*/
+
+
